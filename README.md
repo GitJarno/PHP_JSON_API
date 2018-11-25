@@ -1,5 +1,5 @@
 # Webstore_API_PHP
-##Tehkää REST API kuvitteellisesta verkkokaupasta.
+## Tehkää REST API kuvitteellisesta verkkokaupasta.
 
 
 Verkkokaupassa on tuotteita joilla on id, tuotekuvan url, nimi, kategoria, hinta ja paino.
