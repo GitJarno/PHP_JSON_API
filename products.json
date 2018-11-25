@@ -1,0 +1,124 @@
+{
+	"Products": [
+		{
+			"id": 1001,
+			"imgUrl": "https://www.stadium.fi/INTERSHOP/static/WFS/Stadium-FinlandB2C-Site/-/Stadium/fi_FI/ADIDAS_ForeRunner.jpg",
+			"name": "Adidas Forerunner 24",
+			"price": 89.90,
+			"weight": 5234,
+      "category": "shoes"
+		},
+		{
+			"id": 1002,
+			"imgUrl": "https://www.stadium.fi/INTERSHOP/static/WFS/Stadium-FinlandB2C-Site/-/Stadium/fi_FI/Zoom/255902_103_ADIDAS_W%20ULTRABOOST.jpg",
+			"name": "Adidas Ultraboost 4.0",
+			"price": 169,
+			"weight": 126,
+			"category": "shoes"
+		},
+		{
+			"id": 1003,
+			"imgUrl": "https://www.stadium.fi/INTERSHOP/static/WFS/Stadium-FinlandB2C-Site/-/Stadium/fi_FI/Zoom/247041_101_NIKE_M%20ROMALEOS%203.jpg",
+			"name": "Nike Romaelos 3",
+			"price": 210.57,
+			"weight": 262,
+			"category": "shirts"
+		},
+		{
+			"id": 1004,
+			"imgUrl": "https://guesswhatsup.com/is/image/gaialommane_soKSIjeSS.png",
+			"name": "Karhu Sleeveless Shirt",
+			"price": 0.50,
+			"weight": 93,
+			"category": "shirts"
+		},
+		{
+			"id": 1005,
+			"imgUrl": "https://www.acnestudios.com/on/demandware.static/-/Sites-acne-product-catalog/default/dw6a1cfe0a/images/CL/CL0021-/2000x/CL0021-183_UNISEX-MAN_A.jpg",
+			"name": "ASOS 51 Shirt",
+			"price": 4.95,
+			"weight": 250,
+			"category": "shirts"
+		},
+		{
+			"id": 1006,
+			"imgUrl": "https://www.acnestudios.com/on/demandware.static/-/Sites-acne-product-catalog/default/tired_of_coming_up_with_links.jpg",
+			"name": "Adidas 3-Stripe Baseball Cap",
+			"price": 24.90,
+			"weight": 270,
+			"category": "hats"
+		},
+		{
+			"id": 1007,
+			"imgUrl": "https://warldastroo.co.uk/image/dOyouActuaLlyRead_tHese_23sge.jpg",
+			"name": "Fedora",
+			"price": 999.99,
+			"weight": 2412,
+			"category": "hats"
+		},
+		{
+			"id": 1008,
+			"imgUrl": "https://hypotheticallinks.com/image/ahmossielf.jpg",
+			"name": "Typical Beanie",
+			"price": 40.90,
+			"weight": 473,
+			"category": "hats"
+		},
+		{
+			"id": 1009,
+			"imgUrl": "https://woahshirts.com/is/image/ikjwijISMDKJikef.jpg",
+			"name": "Levis 511",
+			"price": 18.90,
+			"weight": 984,
+			"category": "jeans"
+		},
+		{
+			"id": 1010,
+			"imgUrl": "https://awesomeshirtssis.fi/image/GuessEU/M63H24W7JF0-L302.jpg",
+			"name": "Acne Regular fit",
+			"price": 99.90,
+			"weight": 204,
+			"category": "jeans"
+		},
+		{
+			"id": 1011,
+			"imgUrl": "https://mosaic03.ztat.net/vgs/media/packshot/pdp-zoom/AD/12/6K/00/7Q/11/AD126K007-Q11@8.jpg",
+			"name": "H&M Basic Hoodie",
+			"price": 24.99,
+			"weight": 984,
+			"category": "hoodies"
+		},
+		{
+			"id": 1012,
+			"imgUrl": "https://cdn-images.farfetch-contents.com/13/00/74/00/13007400_13752705_1000.jpg",
+			"name": "Yeezy Season 6 Classic Hoodie",
+			"price": 569,
+			"weight": 1275,
+			"category": "hoodies"
+		},
+		{
+			"id": 1013,
+			"imgUrl": "https://mosaic03.ztat.net/vgs/media/pdp-zoom/RE/02/2S/00/CQ/12/RE022S00C-Q12@4.jpg",
+			"name": "Imaginary Brand Hoodie",
+			"price": 44.90,
+			"weight": 984,
+			"category": "hoodie"
+		},
+		{
+			"id": 1014,
+			"imgUrl": "https://mosaic04.ztat.net/vgs/media/packshot/pdp-zoom/RA/25/4K/00/QM/11/RA254K00Q-M11@7.jpg",
+			"name": "Aviators",
+			"price": 89.90,
+			"weight": 156,
+			"category": "sunglasses"
+		},
+		{
+			"id": 1015,
+			"imgUrl": "https://mosaic03.ztat.net/vgs/media/pdp-zoom/RA/25/4F/00/12/06/RA254F001-206@1.3.jpg",
+			"name": "Clubmasters",
+			"price": 67.90,
+			"weight": 300,
+			"category": "sunglasses"
+		}
+	]
+}
